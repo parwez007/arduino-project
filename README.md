@@ -1,0 +1,2 @@
+# arduino-project
+Hello everyone,  I currently need to do a project on automating the movement of a circle using an arduino UNO, accelerometer/gyroscope (MPU6050) and a servo motor.  The motor needs to start moving the circle when a motion/acceleration is detected and needs to stop moving when a deceleration is detected. And frankly speaking, I don’t really know how to program arduinos and have been getting problems doing so. I tried looking for sample programs online but they don’t seem to work. Can anyone please help me out?  
